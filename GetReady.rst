@@ -28,3 +28,9 @@ Steps to Install GitHub Desktop (Optional)
 
 1. Download URL: http://desktop.github.com/
 2. Choose the Installer for Your OS
+
+Useful Tools
+------------
+
+* `PythonTutor <http://pythontutor.com/>`_: Visualizing Your Codes
+* `Educational Python Apps on Google Play <http://play.google.com/store/search?q=python&c=apps>`_
