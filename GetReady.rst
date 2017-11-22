@@ -20,7 +20,7 @@ Steps to Quick Download Your Handouts
 1. Download URL: http://github.com/l34marr/jupyter-nbs
 2. Find the **Clone or download** Dropdown Menu, Choose Dowload ZIP
 3. Unzip the File
-4. Use **Jupyter Notebook** to Open .ipynb Files
+4. Use the **Jupyter Notebook App** to Open .ipynb Files
 
 .. image:: img/github-download.png
 
@@ -28,6 +28,21 @@ Steps to Install GitHub Desktop (Optional)
 
 1. Download URL: http://desktop.github.com/
 2. Choose the Installer for Your OS
+
+Notebook: Executable Document
+-----------------------------
+
+* The Handouts are Edited with the **Jupyter Notebook App** and Allow You to Excute and Change on the fly.
+* You can run the notebook document step-by-step (one cell a time) by pressing *Shift + Enter*
+
+Steps to Open Jupyter Notebook and Run the Cells
+
+1. (Windows) Start Menu / Jupyter Notebook
+2. Browse to Locate Your Notebook Documents
+3. Cells with Green Hinting are Executable
+
+.. image:: img/notebook-browsing.png
+.. image:: img/notebook-cell-color.png
 
 Useful Tools
 ------------
