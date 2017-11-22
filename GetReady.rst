@@ -20,6 +20,9 @@ Different Ways to Run Python
 3. Jupyter Notebook
 4. IDE (Spyder)
 
+* Note that ``>>>`` is the Default Python Prompt
+* Type ``quit()`` to Exit the Python Interpreter
+
 .. image:: img/start-cmd.png
 .. image:: img/start-ipy.png
 .. image:: img/start-spyder.png
