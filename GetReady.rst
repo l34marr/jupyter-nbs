@@ -54,7 +54,9 @@ Steps to Open Jupyter Notebook and Run the Cells
 
 1. (Windows) Start Menu / Jupyter Notebook
 2. Browse to Locate Your Notebook Documents
-3. Cells with Green Hinting are Executable
+3. Click to Select a Cell: Blue Cell Border means it is in Command Mode
+4. One way to enter Edit Mode is pressing Enter
+5. When a Cell is in Edit Mode (indicated by a Green Cell Border) You Can Type into the Cell
 
 .. image:: img/notebook-browsing.png
 .. image:: img/notebook-cell-color.png
