@@ -62,5 +62,9 @@ Steps to Open Jupyter Notebook and Run the Cells
 Useful Tools
 ------------
 
+* `Python 3 Tutorial <http://www.sololearn.com/Course/Python>`_: Quick Quiz
+* `Python Challenge <http://www.pythonchallenge.com/>`_: Riddle Game
+* `StackOverflow <http://stackoverflow.com/questions/tagged/python>`_: Look Here First Before You Ask
 * `PythonTutor <http://pythontutor.com/>`_: Visualizing Your Codes
 * `Educational Python Apps on Google Play <http://play.google.com/store/search?q=python&c=apps>`_
+
