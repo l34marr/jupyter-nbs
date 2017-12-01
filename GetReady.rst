@@ -65,6 +65,7 @@ Useful Tools
 ------------
 
 * `Python 3 Tutorial <http://www.sololearn.com/Course/Python>`_: Quick Quiz
+* `Practice Python <http://www.practicepython.org/>`_: Beginner Python Exercises
 * `Python Challenge <http://www.pythonchallenge.com/>`_: Riddle Game
 * `StackOverflow <http://stackoverflow.com/questions/tagged/python>`_: Look Here First Before You Ask
 * `PythonTutor <http://pythontutor.com/>`_: Visualizing Your Codes
