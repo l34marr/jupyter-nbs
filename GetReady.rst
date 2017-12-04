@@ -1,16 +1,18 @@
 Anaconda: Friendly Python Platform
 ----------------------------------
 
+.. image:: img/anaconda-navigator.png
+
 `Steps to Install on Windows <http://docs.anaconda.com/anaconda/install/windows>`_
 
 1. Download URL: http://www.anaconda.com/download
 2. Choose the Installer for Your OS and CPU
 3. Select an Install for "Just Me"
 4. Install to a Directory Path that Does Not Contain Spaces or Unicode Characters
-5. Ater the Install is Complete, Verify It by Opening **Anaconda Navigator**
+5. Ater the Install is Complete, Verify It by Opening **Anaconda Prompt** and Running the Command ``conda list``
 
 .. image:: img/anaconda-start.png
-.. image:: img/anaconda-navigator.png
+.. image:: img/anaconda-prompt.png
 
 Different Ways to Run Python
 ----------------------------
@@ -57,6 +59,7 @@ Steps to Open Jupyter Notebook and Run the Cells
 3. Click to Select a Cell: Blue Cell Border means it is in Command Mode
 4. One way to enter Edit Mode is pressing Enter
 5. When a Cell is in Edit Mode (indicated by a Green Cell Border) You Can Type into the Cell
+6. One way to quit Edit Mode is pressing Esc
 
 .. image:: img/notebook-browsing.png
 .. image:: img/notebook-cell-color.png
