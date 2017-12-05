@@ -64,6 +64,19 @@ Steps to Open Jupyter Notebook and Run the Cells
 .. image:: img/notebook-browsing.png
 .. image:: img/notebook-cell-color.png
 
+CheckIO: Exercise and Classroom
+-------------------------------
+
+Steps to Solve Missions (Exercises)
+
+1. URL: http://py.checkio.org/
+2. Click "Start the Game" to Login
+3. Some Easiest Missions are in the "Library Island" ("Elementary" Station)
+4. Try First Mission at http://py.checkio.org/mission/say-history
+5. Click "Solve It" to Show `the Editor <https://www.youtube.com/watch?v=3NOc3VXfvzI>`_
+6. Click "Run" to See If Your Codes Working
+7. Click "Check" When You Complete
+
 Useful Tools
 ------------
 
