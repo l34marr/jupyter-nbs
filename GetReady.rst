@@ -64,10 +64,12 @@ Steps to Open Jupyter Notebook and Run the Cells
 .. image:: img/notebook-browsing.png
 .. image:: img/notebook-cell-color.png
 
-CheckIO: Exercise and Classroom
+CheckiO: Exercise and Classroom
 -------------------------------
 
-Steps to Solve Missions (Exercises)
+.. image:: img/checkio-home.png
+
+Steps to Solve Missions (Coding Puzzles)
 
 1. URL: http://py.checkio.org/
 2. Click "Start the Game" to Login
