@@ -78,6 +78,10 @@ Steps to Solve Missions (Coding Puzzles)
 5. Click "Solve It" to Show `the Editor <https://www.youtube.com/watch?v=3NOc3VXfvzI>`_
 6. Click "Run" to See If Your Codes Working
 7. Click "Check" When You Complete
+8. Click "Publish" to Share Your Solution
+9. Select a Category for Your Solution
+
+.. image:: img/category-save.png
 
 Useful Tools
 ------------
