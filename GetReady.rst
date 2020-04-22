@@ -5,7 +5,7 @@ Anaconda: Friendly Python Platform
 
 `Steps to Install on Windows <http://docs.anaconda.com/anaconda/install/windows>`_
 
-1. Download URL: http://www.anaconda.com/download
+1. Download URL: http://www.anaconda.com/distribution
 2. Choose the Installer for Your OS and CPU
 3. Select an Install for "Just Me"
 4. Install to a Directory Path that Does Not Contain Spaces or Unicode Characters
