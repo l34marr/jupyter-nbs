@@ -14,6 +14,8 @@ geocode_result = gmaps.geocode('臺北市')
 # ['geometry']['location'] = {'lat': 25.0329694, 'lng': 121.5654177}
 geocode_location = geocode_result[0]['geometry']['location']
 
+# https://developers.google.com/places/web-service/search#TextSearchRequests
+# https://ithelp.ithome.com.tw/questions/10186558
 gmaps_return1 = gmaps.places_nearby(location=geocode_location,radius=2500,keyword='餐廳')
 results_1 = gmaps_return1['results']
 next_page_token1 = gmaps_return1['next_page_token']
